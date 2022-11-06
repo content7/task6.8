@@ -1,0 +1,29 @@
+#green {
+    width:90px;
+    height: 90px;
+    border-radius: 50%;
+    background: black;
+}
+
+#yellow {
+    width:90px;
+    height: 90px;
+    border-radius: 50%;
+    background: black;
+}
+
+#red {
+    width:90px;
+    height: 90px;
+    border-radius: 50%;
+    background: black;
+}
+
+.trafficlight{
+    position: absolute;
+    border-radius:100px;
+    top: 20vh;
+    left:50%;
+    height: 271px;
+    background-color:rgb(98, 98, 112);
+}
